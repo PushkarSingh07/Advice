@@ -1,4 +1,6 @@
-App Link - https://glittery-kitsune-cd95b6.netlify.app
+Website Link - https://glittery-kitsune-cd95b6.netlify.app
+
+Daily Advice!
 
 
 # Getting Started with Create React App
